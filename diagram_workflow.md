@@ -1,4 +1,4 @@
-
+```mermaid
 flowchart TD
     subgraph A["Part A: Client Onboarding"]
         BP["Brand Profile"]
@@ -57,3 +57,4 @@ flowchart TD
     class SC,CF,CC,QC,SP pipeline;
     class IG,LI,TG,BL platform;
     class FA analytics;
+```
