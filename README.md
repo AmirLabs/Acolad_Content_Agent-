@@ -1,5 +1,14 @@
 # AI Content Production Agent
 
+## Development Assistant Tools
+
+The project uses the following Codex tools during development:
+
+- **Superpowers** — follow the applicable skills for project work, such as brainstorming before new features and systematic debugging for defects.
+- **Context7** — consult current library, framework, SDK, API, CLI, and cloud service documentation when implementation work depends on it. Resolve the library ID before querying documentation.
+
+See [AGENTS.md](AGENTS.md) for the project-level instructions that guide future Codex work. These tools are used through the connected Codex session; listing them here does not install or connect plugins.
+
 ## Workflow Overview
 
 ### Project Goal
