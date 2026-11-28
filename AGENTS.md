@@ -2,6 +2,10 @@
 
 These instructions apply to work in this repository.
 
+## تأیید پیش از اجرای دستورهای حساس
+
+پیش از اجرای هر دستور حساس، اقدام موردنظر و اثر آن را توضیح بده و منتظر تأیید صریح کاربر برای همان اقدام بمان. دستورهای حذف یا بازنویسی داده، تغییر مجوزها، انتقال اطلاعات محرمانه و تغییر در محیط عملیاتی نمونه‌هایی از دستورهای حساس‌اند. دسترسی کامل به سیستم مجوز اجرای این دستورها محسوب نمی‌شود. محدودیت‌های بخش گیت همچنان برقرارند.
+
 ## Git
 
 - Git belongs to the user. Never run a Git command that changes repository state, including add, commit, branch, checkout, merge, rebase, push, pull, stash, tag, reset, or config edits. Never ask permission to run one; the user decides and runs it. Read-only inspection such as `git status`, `git log`, and `git diff` is allowed when needed.
